@@ -38,11 +38,13 @@ To detect emotions in videos, use the **VideoEmotionDetection.ipynb** notebook. 
 
 ## Examples
 
-[![Видео](https://drive.google.com/file/d/1-AUTy3WV7XvBIWj1dLYTnry1KUk51WeL/view?usp=sharing)](https://drive.google.com/file/d/1-AUTy3WV7XvBIWj1dLYTnry1KUk51WeL/view?usp=sharing)
+
+https://github.com/VKe-13/Emotion-Detector/assets/82056992/82a5fb0f-b87b-42f2-9eb2-25fe58061354
 
 
 
-https://drive.google.com/file/d/1-EvGICQE_Vx3MDLJnNI3Q1_LhdprnmM8/view?usp=sharing
+https://github.com/VKe-13/Emotion-Detector/assets/82056992/53bb5518-3dcc-4d05-baf7-f2d64e7d8fe5
+
 
 
 

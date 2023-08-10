@@ -38,9 +38,17 @@ To detect emotions in videos, use the **VideoEmotionDetection.ipynb** notebook. 
 
 ## Examples
 
-https://github.com/VKe-13/Emotion-Detector/assets/82056992/8c229187-8e63-482c-8217-8396e4b736d9
+### Single-Person Emotion Detection
 
+[![Single-Person Emotion Detection](https://img.youtube.com/vi/nIkqFrftYOs/0.jpg)](https://youtu.be/nIkqFrftYOs)
 
+_Description:_ This video demonstrates the emotion detection of a single person's facial expressions. The video is taken from Pixabay: [Emotions Men Staring](https://pixabay.com/videos/emotions-men-staring-human-person-44438/).
+
+### Multi-Person Emotion Detection
+
+[![Multi-Person Emotion Detection](https://img.youtube.com/vi/SRAGtj2yzMU/0.jpg)](https://youtu.be/SRAGtj2yzMU)
+
+_Description:_ This video showcases the emotion detection of multiple people's facial expressions. The video is taken from Pexels: [Slow Motion Footage of People Seated on a Long Table](https://www.pexels.com/video/slow-motion-footage-of-people-seated-on-a-long-table-talking-and-listening-to-each-other-3002392/).
 
 
 
